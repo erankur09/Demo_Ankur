@@ -4,10 +4,5 @@ name     = "kannaji2"
 location = "West Europe"
 }
 
-jdhfgio
-dfgl
-mksidfg
-nidfg
-
 
 
